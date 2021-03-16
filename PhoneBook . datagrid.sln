@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook . datagrid", "PhoneBook . datagrid\PhoneBook . datagrid.csproj", "{BD24E911-AA48-457D-A9BB-A6A3EFBE3904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD24E911-AA48-457D-A9BB-A6A3EFBE3904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD24E911-AA48-457D-A9BB-A6A3EFBE3904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD24E911-AA48-457D-A9BB-A6A3EFBE3904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD24E911-AA48-457D-A9BB-A6A3EFBE3904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E37FBF-E630-404C-83E5-6005442813EA}
+	EndGlobalSection
+EndGlobal
